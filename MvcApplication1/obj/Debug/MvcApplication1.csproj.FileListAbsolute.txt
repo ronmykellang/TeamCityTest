@@ -95,3 +95,5 @@ C:\Users\rang\Documents\workspace\teamcitytest\MvcApplication1\bin\zh-Hant\Syste
 C:\Users\rang\Documents\workspace\teamcitytest\MvcApplication1\obj\Debug\MvcApplication1.csproj.App.config
 C:\Users\rang\Documents\workspace\teamcitytest\MvcApplication1\obj\Debug\MvcApplication1.dll
 C:\Users\rang\Documents\workspace\teamcitytest\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\rang\Documents\workspace\teamcitytest\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+C:\Users\rang\Documents\workspace\teamcitytest\MvcApplication1\bin\Microsoft.Bcl.Build.Tasks.dll
