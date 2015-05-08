@@ -95,4 +95,7 @@ C:\Users\rang\Documents\workspace\teamcitytest\MvcApplication1\bin\zh-Hant\Syste
 C:\Users\rang\Documents\workspace\teamcitytest\MvcApplication1\obj\Debug\MvcApplication1.csproj.App.config
 C:\Users\rang\Documents\workspace\teamcitytest\MvcApplication1\obj\Debug\MvcApplication1.dll
 C:\Users\rang\Documents\workspace\teamcitytest\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\rang\Documents\workspace\teamcitytest\MvcApplication1\bin\nunit.framework.dll
+C:\Users\rang\Documents\workspace\teamcitytest\MvcApplication1\bin\TechTalk.SpecFlow.dll
+C:\Users\rang\Documents\workspace\teamcitytest\MvcApplication1\bin\nunit.framework.xml
 C:\Users\rang\Documents\workspace\teamcitytest\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache

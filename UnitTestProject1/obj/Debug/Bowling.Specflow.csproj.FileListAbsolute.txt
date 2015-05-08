@@ -1,0 +1,11 @@
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\obj\Debug\Bowling.Specflow.csprojResolveAssemblyReference.cache
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\bin\Debug\Bowling.dll
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\bin\Debug\Bowling.pdb
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\bin\Debug\nunit.framework.xml

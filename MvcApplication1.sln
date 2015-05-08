@@ -5,7 +5,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcAppli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling", "Bowling\Bowling.csproj", "{394BCDFE-B983-4010-9A31-7349F28178D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling.Specflow", "Bowling.Specflow\Bowling.Specflow.csproj", "{25C0ADEC-5DF4-4BF2-9C36-F9F4DB05BA13}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8C839BE6-C068-4B5E-8B7E-4EED14F5EFBC}"
+	ProjectSection(SolutionItems) = preProject
+		RunSpecFlow.bat = RunSpecFlow.bat
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling.Specflow", "UnitTestProject1\Bowling.Specflow.csproj", "{490B9BFE-FC63-4956-9FB6-3D899B43F24C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +26,10 @@ Global
 		{394BCDFE-B983-4010-9A31-7349F28178D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{394BCDFE-B983-4010-9A31-7349F28178D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{394BCDFE-B983-4010-9A31-7349F28178D5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{25C0ADEC-5DF4-4BF2-9C36-F9F4DB05BA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{25C0ADEC-5DF4-4BF2-9C36-F9F4DB05BA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{25C0ADEC-5DF4-4BF2-9C36-F9F4DB05BA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{25C0ADEC-5DF4-4BF2-9C36-F9F4DB05BA13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490B9BFE-FC63-4956-9FB6-3D899B43F24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490B9BFE-FC63-4956-9FB6-3D899B43F24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490B9BFE-FC63-4956-9FB6-3D899B43F24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490B9BFE-FC63-4956-9FB6-3D899B43F24C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

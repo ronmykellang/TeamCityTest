@@ -1,5 +1,4 @@
 C:\Users\rang\Documents\workspace\teamcitytest\Bowling\bin\Debug\Bowling.dll
 C:\Users\rang\Documents\workspace\teamcitytest\Bowling\bin\Debug\Bowling.pdb
-C:\Users\rang\Documents\workspace\teamcitytest\Bowling\obj\Debug\Bowling.csprojResolveAssemblyReference.cache
 C:\Users\rang\Documents\workspace\teamcitytest\Bowling\obj\Debug\Bowling.dll
 C:\Users\rang\Documents\workspace\teamcitytest\Bowling\obj\Debug\Bowling.pdb

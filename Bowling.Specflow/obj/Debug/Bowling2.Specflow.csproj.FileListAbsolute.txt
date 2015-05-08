@@ -1,0 +1,11 @@
+C:\Users\rang\Documents\workspace\teamcitytest\Bowling.Specflow\bin\Debug\Bowling.Specflow.dll.config
+C:\Users\rang\Documents\workspace\teamcitytest\Bowling.Specflow\bin\Debug\Bowling.Specflow.dll
+C:\Users\rang\Documents\workspace\teamcitytest\Bowling.Specflow\bin\Debug\Bowling.Specflow.pdb
+C:\Users\rang\Documents\workspace\teamcitytest\Bowling.Specflow\bin\Debug\Bowling.dll
+C:\Users\rang\Documents\workspace\teamcitytest\Bowling.Specflow\bin\Debug\nunit.framework.dll
+C:\Users\rang\Documents\workspace\teamcitytest\Bowling.Specflow\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\rang\Documents\workspace\teamcitytest\Bowling.Specflow\bin\Debug\Bowling.pdb
+C:\Users\rang\Documents\workspace\teamcitytest\Bowling.Specflow\bin\Debug\nunit.framework.xml
+C:\Users\rang\Documents\workspace\teamcitytest\Bowling.Specflow\obj\Debug\Bowling2.Specflow.csprojResolveAssemblyReference.cache
+C:\Users\rang\Documents\workspace\teamcitytest\Bowling.Specflow\obj\Debug\Bowling.Specflow.dll
+C:\Users\rang\Documents\workspace\teamcitytest\Bowling.Specflow\obj\Debug\Bowling.Specflow.pdb

@@ -1,0 +1,5 @@
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\rang\Documents\workspace\teamcitytest\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
